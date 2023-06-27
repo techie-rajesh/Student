@@ -3,6 +3,7 @@ package com.example.student.Model;
 import lombok.*;
 
 import javax.persistence.*;
+// This is an Entity Class
 
 @Entity
 @Table(name = "student_details")
